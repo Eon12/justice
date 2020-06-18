@@ -1,2 +1,2 @@
 # justice
-for client
+for client.
