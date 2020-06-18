@@ -1,0 +1,60 @@
+.keystrokesleft {
+    margin-left: 12px;
+}
+
+body {
+    background-color: #121212;
+}
+
+.content {
+    padding: 24px;
+    color: white;
+    position: relative;
+    z-index: -1;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 20px;
+    background-color: #191919;
+}
+
+.btnicon {
+    width: 30px;
+}
+
+.iconbtn {
+    min-width: 0px;
+    border-radius: 50%;
+    padding: 24px;
+}
+
+
+.container-thing {
+    position: absolute;
+    right: 10px;
+    bottom: 40px;
+} 
+
+.footersubtext {
+    bottom: 2px;
+    color: grey;
+}
+
+.contentcontainertitles {
+    overflow: hidden;
+}
+
+#particles-js canvas{
+    position: absolute;
+    opacity: 0.3;
+    width: auto;
+    height: 100%;
+    z-index: -1;
+}
+
+.dropdown-menu {
+    z-index: 200;
+}
